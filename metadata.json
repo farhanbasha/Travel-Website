@@ -1,0 +1,6 @@
+{
+  "name": "Voyage Travel",
+  "description": "Minimalist travel platform with destination guides, flight and hotel booking, tour packages, custom itineraries, photo gallery, reviews, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
